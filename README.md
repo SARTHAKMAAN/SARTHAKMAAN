@@ -40,10 +40,3 @@ Database:    SQL
 🕶️ Dark theme user always 😎
 
 
-### GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sarthakmaan&show_icons=true&theme=tokyonight" width="450"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=sarthakmaan&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="450"/> </p>
-
-
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarthakmaan&theme=tokyonight"> </p>
-
-<p align="center">✨ “Code with passion, build with purpose.” ✨</p> ```
